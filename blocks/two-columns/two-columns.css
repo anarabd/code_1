@@ -1,0 +1,8 @@
+.two-columns {
+    border: 1px solid rgb(0, 60, 255);
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 80%;
+}

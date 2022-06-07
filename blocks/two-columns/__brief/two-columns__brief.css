@@ -1,0 +1,11 @@
+.two-columns__brief {
+    border: 1px solid rgb(0, 255, 68);
+    width: 175px;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    line-height: 1,2px;
+    font-family: 'inter', 'Arial', sans-serif;
+    font-style: normal;
+    color: #2f80ed;
+}
